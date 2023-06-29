@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Sharma</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="Cover Image" width="500">
+  <img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" alt="Cover Image" width="500">
 </p>
 
 <h3 align="center"> SDE Intern@SRI-B | Competitive Coder | Android Developer | IIT(ISM) '24 | Machine Learning & AI Enthusiast</h3>
